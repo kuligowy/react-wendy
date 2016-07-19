@@ -1,0 +1,78 @@
+.container {
+}
+.out {
+	clear: left;
+}
+.document-menu{
+
+}
+.grid-wrapper { 
+	height: 600px;
+}
+.master-grid{
+	height:60%
+}
+.slave-grid{
+	height:40%
+}
+.step-menu-wrapper{
+	background: red;
+}
+.step-menu{
+	/*float:left;*/
+	padding: .4em 0.5em .4em;
+	font-weight: bold;
+	float: left;
+	/*width: 200px;
+	height: 100px;*/
+	margin: 0.1em;
+}
+
+.step-menu.odd{
+	background: #D4F1AF;
+}
+.step-menu.even{
+	background: #AFF1D4;
+}
+
+a.step-menu-item{
+	background: blue;
+	padding: 2px 2px 2px 2px;
+	border: 1px solid #c5dbec;
+    background: #dfeffc;
+    color: #2e6e9e;
+}
+a.step-menu-item:hover{
+	cursor: pointer;
+}
+ 
+a.active-location {
+    border: 1px solid #79b7e7;
+    background: #f5f8f9;
+    font-weight: bold;
+    color: #e17009;
+}
+h1 {
+	margin-bottom: 20px;
+}
+
+/*
+.glyphicon {
+	font-size: 18px;
+	z-index: 20;
+	cursor: pointer;
+}
+*/
+
+/*
+.glyphicon-menu-right {
+	position: absolute;
+	top: 50%;
+	right: 10px;
+	margin-top: -9px;
+}
+*/
+
+
+
+ 
